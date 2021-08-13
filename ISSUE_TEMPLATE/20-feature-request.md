@@ -1,7 +1,7 @@
 ---
 name: "\U0001F195 Feature Request"
 about: Suggest an idea for a new feature
-title: ''
+title: 'Brief Summary of the New Feature Here'
 labels: "\U0001F9D9‍♀️enhancement"
 
 ---
